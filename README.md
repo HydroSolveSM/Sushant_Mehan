@@ -1,2 +1,2 @@
-# SM_portfolio
-My personal portfolio website
+# Sushant_Mehan
+Portfolio of a Water Scientist
